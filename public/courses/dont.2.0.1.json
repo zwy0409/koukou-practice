@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.1",
+  "course": {
+    "id": "dont",
+    "name": "I don’t + 动词",
+    "explanation": "一般现在时的否定：I don’t 后面接动词原形。不要把 be 动词和普通动词混用。",
+    "commonMistakes": "I’m not play ✗；I don’t plays ✗",
+    "examples": [
+      "I don’t play games.",
+      "I don’t watch streams.",
+      "I don’t know the answer."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "dont-01",
+        "zh": "我现在不怎么玩英雄联盟了。",
+        "en": "I don't play League of Legends much anymore.",
+        "wrong": "I'm not play League of Legends."
+      },
+      {
+        "id": "dont-02",
+        "zh": "我不经常熬夜。",
+        "en": "I don't stay up late very often.",
+        "wrong": "I'm not stay up late."
+      },
+      {
+        "id": "dont-03",
+        "zh": "我不想今天出门。",
+        "en": "I don't want to go out today.",
+        "wrong": "I not want go out today."
+      },
+      {
+        "id": "dont-04",
+        "zh": "我不认识那个主播。",
+        "en": "I don't know that streamer.",
+        "wrong": "I'm not know that streamer."
+      },
+      {
+        "id": "dont-05",
+        "zh": "我不喜欢排队。",
+        "en": "I don't like waiting in line.",
+        "wrong": "I don't like wait in line."
+      },
+      {
+        "id": "dont-06",
+        "zh": "我上课时不玩游戏。",
+        "en": "I don't play games during class.",
+        "wrong": "I'm not play games in class."
+      },
+      {
+        "id": "dont-07",
+        "zh": "我不太懂这个规则。",
+        "en": "I don't really understand this rule.",
+        "wrong": "I'm not understand this rule."
+      },
+      {
+        "id": "dont-08",
+        "zh": "我不每天看直播。",
+        "en": "I don't watch streams every day.",
+        "wrong": "I doesn't watch streams every day."
+      },
+      {
+        "id": "dont-09",
+        "zh": "我不介意一个人吃饭。",
+        "en": "I don't mind eating alone.",
+        "wrong": "I don't mind eat alone."
+      },
+      {
+        "id": "dont-10",
+        "zh": "我不记得那个单词。",
+        "en": "I don't remember that word.",
+        "wrong": "I'm not remember that word."
+      }
+    ]
+  }
+}

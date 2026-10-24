@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "updatedAt": "2026-10-24",
   "title": "开口练 · 英语口语训练",
-  "releaseNotes": "首批 10 个核心句型，共 100 句。",
+  "releaseNotes": "首批 10 个核心句型，共 100 句。发布新版课程包，保留原题目和全部稳定 ID。",
   "links": {
     "bbc": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
     "spanish": [
@@ -25,9 +25,9 @@
     {
       "id": "dont",
       "name": "I don’t + 动词",
-      "version": "2.0.0",
-      "url": "courses/dont.2.0.0.json",
-      "sha256": "bd6b05bfc0c9cafc25382a676c1dc1e27dd216dbb9f947022c0f5718d3fcfe69"
+      "version": "2.0.1",
+      "url": "courses/dont.2.0.1.json",
+      "sha256": "7ebadf16e53d7ea5ea313a755d89a7d3b4a37c71426c01bc9d61a7eea86700e7"
     },
     {
       "id": "not",
