@@ -1,0 +1,840 @@
+{
+  "manifest": {
+    "schemaVersion": 1,
+    "version": "2.0.0",
+    "updatedAt": "2026-10-24",
+    "title": "开口练 · 英语口语训练",
+    "releaseNotes": "首批 10 个核心句型，共 100 句。",
+    "links": {
+      "bbc": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
+      "spanish": [
+        {
+          "name": "Language Transfer · Complete Spanish",
+          "url": "https://www.languagetransfer.org/complete-spanish"
+        },
+        {
+          "name": "西班牙语发音规则（视频搜索）",
+          "url": "https://www.youtube.com/results?search_query=spanish+pronunciation+rules+beginners"
+        },
+        {
+          "name": "Dreaming Spanish · Superbeginner",
+          "url": "https://www.dreamingspanish.com/"
+        }
+      ]
+    },
+    "courses": [
+      {
+        "id": "dont",
+        "name": "I don’t + 动词",
+        "version": "2.0.0",
+        "url": "courses/dont.2.0.0.json",
+        "sha256": "bd6b05bfc0c9cafc25382a676c1dc1e27dd216dbb9f947022c0f5718d3fcfe69"
+      },
+      {
+        "id": "not",
+        "name": "I’m not + 形容词 / doing",
+        "version": "2.0.0",
+        "url": "courses/not.2.0.0.json",
+        "sha256": "a5afe66f8c116a2ddf6858e49cb6780ef95175f4ac95de2289be069a58c87f7c"
+      },
+      {
+        "id": "been",
+        "name": "I’ve been + -ing",
+        "version": "2.0.0",
+        "url": "courses/been.2.0.0.json",
+        "sha256": "db341a9e172aeccb0cb7975904d8b822209c36e70d6d9d67d10f6af5a9cead18"
+      },
+      {
+        "id": "to",
+        "name": "want / need / plan to + 动词",
+        "version": "2.0.0",
+        "url": "courses/to.2.0.0.json",
+        "sha256": "c2762605f5e06752782ad08090ca771884725bc15971dfa8e9c7015b603f4724"
+      },
+      {
+        "id": "spend",
+        "name": "spend time (on) doing",
+        "version": "2.0.0",
+        "url": "courses/spend.2.0.0.json",
+        "sha256": "e9e0bd46fc2060e2f42d36f83f95ad611f49578cf2e753031642b825ced8896e"
+      },
+      {
+        "id": "good",
+        "name": "be good at doing",
+        "version": "2.0.0",
+        "url": "courses/good.2.0.0.json",
+        "sha256": "567754cfb188782160f411517c2b1b369c4fdeefcc952e379a61e8daac2296dc"
+      },
+      {
+        "id": "same",
+        "name": "the same as / different from",
+        "version": "2.0.0",
+        "url": "courses/same.2.0.0.json",
+        "sha256": "7fd8237a744c90345b5588b79e11d6c416e91157ff07156fa18d1d0583f1a833"
+      },
+      {
+        "id": "going",
+        "name": "I’m going to / I’m planning to",
+        "version": "2.0.0",
+        "url": "courses/going.2.0.0.json",
+        "sha256": "bebac289303da3a5ff30bea50747617709068778d97bb4308b114751fac6f1fa"
+      },
+      {
+        "id": "enjoy",
+        "name": "enjoy / like / love + -ing",
+        "version": "2.0.0",
+        "url": "courses/enjoy.2.0.0.json",
+        "sha256": "e109acbdd1b1d382331a3559f8bf0fa4827665ace439598683e748bcad66b4dd"
+      },
+      {
+        "id": "past",
+        "name": "用过去式说今天做了什么",
+        "version": "2.0.0",
+        "url": "courses/past.2.0.0.json",
+        "sha256": "f2ecbca66dce8033a9e194e228e4560eec7c5d1bf77fbc3f2da786861be76df3"
+      }
+    ]
+  },
+  "courses": [
+    {
+      "id": "dont",
+      "name": "I don’t + 动词",
+      "explanation": "一般现在时的否定：I don’t 后面接动词原形。不要把 be 动词和普通动词混用。",
+      "commonMistakes": "I’m not play ✗；I don’t plays ✗",
+      "examples": [
+        "I don’t play games.",
+        "I don’t watch streams.",
+        "I don’t know the answer."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "dont-01",
+          "zh": "我现在不怎么玩英雄联盟了。",
+          "en": "I don't play League of Legends much anymore.",
+          "wrong": "I'm not play League of Legends."
+        },
+        {
+          "id": "dont-02",
+          "zh": "我不经常熬夜。",
+          "en": "I don't stay up late very often.",
+          "wrong": "I'm not stay up late."
+        },
+        {
+          "id": "dont-03",
+          "zh": "我不想今天出门。",
+          "en": "I don't want to go out today.",
+          "wrong": "I not want go out today."
+        },
+        {
+          "id": "dont-04",
+          "zh": "我不认识那个主播。",
+          "en": "I don't know that streamer.",
+          "wrong": "I'm not know that streamer."
+        },
+        {
+          "id": "dont-05",
+          "zh": "我不喜欢排队。",
+          "en": "I don't like waiting in line.",
+          "wrong": "I don't like wait in line."
+        },
+        {
+          "id": "dont-06",
+          "zh": "我上课时不玩游戏。",
+          "en": "I don't play games during class.",
+          "wrong": "I'm not play games in class."
+        },
+        {
+          "id": "dont-07",
+          "zh": "我不太懂这个规则。",
+          "en": "I don't really understand this rule.",
+          "wrong": "I'm not understand this rule."
+        },
+        {
+          "id": "dont-08",
+          "zh": "我不每天看直播。",
+          "en": "I don't watch streams every day.",
+          "wrong": "I doesn't watch streams every day."
+        },
+        {
+          "id": "dont-09",
+          "zh": "我不介意一个人吃饭。",
+          "en": "I don't mind eating alone.",
+          "wrong": "I don't mind eat alone."
+        },
+        {
+          "id": "dont-10",
+          "zh": "我不记得那个单词。",
+          "en": "I don't remember that word.",
+          "wrong": "I'm not remember that word."
+        }
+      ]
+    },
+    {
+      "id": "not",
+      "name": "I’m not + 形容词 / doing",
+      "explanation": "I’m not 后面可以接形容词，或动词 -ing 表示现在没有正在做。普通动词的习惯性否定用 I don’t。",
+      "commonMistakes": "I’m not play ✗；I don’t tired ✗",
+      "examples": [
+        "I’m not tired.",
+        "I’m not playing.",
+        "I’m not ready."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "not-01",
+          "zh": "我现在不累。",
+          "en": "I'm not tired right now.",
+          "wrong": "I don't tired now."
+        },
+        {
+          "id": "not-02",
+          "zh": "我现在没在玩游戏。",
+          "en": "I'm not playing games right now.",
+          "wrong": "I don't playing games now."
+        },
+        {
+          "id": "not-03",
+          "zh": "我不确定这个答案。",
+          "en": "I'm not sure about this answer.",
+          "wrong": "I don't sure about this answer."
+        },
+        {
+          "id": "not-04",
+          "zh": "我没有在听音乐。",
+          "en": "I'm not listening to music.",
+          "wrong": "I'm not listen to music."
+        },
+        {
+          "id": "not-05",
+          "zh": "我今天不忙。",
+          "en": "I'm not busy today.",
+          "wrong": "I don't busy today."
+        },
+        {
+          "id": "not-06",
+          "zh": "我没在看直播，我在写作业。",
+          "en": "I'm not watching a stream. I'm doing homework.",
+          "wrong": "I'm not watch a stream."
+        },
+        {
+          "id": "not-07",
+          "zh": "我对这部电影不感兴趣。",
+          "en": "I'm not interested in this movie.",
+          "wrong": "I don't interested in this movie."
+        },
+        {
+          "id": "not-08",
+          "zh": "我还没准备好。",
+          "en": "I'm not ready yet.",
+          "wrong": "I don't ready yet."
+        },
+        {
+          "id": "not-09",
+          "zh": "我不是在开玩笑。",
+          "en": "I'm not joking.",
+          "wrong": "I don't joking."
+        },
+        {
+          "id": "not-10",
+          "zh": "我现在不饿。",
+          "en": "I'm not hungry right now.",
+          "wrong": "I don't hungry now."
+        }
+      ]
+    },
+    {
+      "id": "been",
+      "name": "I’ve been + -ing",
+      "explanation": "have been + 动词 -ing 表示一段时间以来持续或反复发生的活动；lately/recently 很常搭配。",
+      "commonMistakes": "I have been watch ✗；I been watching ✗",
+      "examples": [
+        "I’ve been reading lately.",
+        "I’ve been practicing English.",
+        "I haven’t been sleeping well."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "been-01",
+          "zh": "我最近一直在看云顶之弈直播。",
+          "en": "I've been watching TFT streams lately.",
+          "wrong": "I have been watch TFT lately."
+        },
+        {
+          "id": "been-02",
+          "zh": "我最近一直在听英语播客。",
+          "en": "I've been listening to English podcasts lately.",
+          "wrong": "I've been listen to podcasts."
+        },
+        {
+          "id": "been-03",
+          "zh": "我这周一直在赶作业。",
+          "en": "I've been working on assignments all week.",
+          "wrong": "I have been work on assignments."
+        },
+        {
+          "id": "been-04",
+          "zh": "我最近一直在练英语口语。",
+          "en": "I've been practicing spoken English lately.",
+          "wrong": "I have been practice English."
+        },
+        {
+          "id": "been-05",
+          "zh": "我最近睡得不太好。",
+          "en": "I haven't been sleeping very well lately.",
+          "wrong": "I haven't been sleep well."
+        },
+        {
+          "id": "been-06",
+          "zh": "我最近一直在读这本小说。",
+          "en": "I've been reading this novel recently.",
+          "wrong": "I have been read this novel."
+        },
+        {
+          "id": "been-07",
+          "zh": "我一直在等朋友回复。",
+          "en": "I've been waiting for my friend to reply.",
+          "wrong": "I've been wait for my friend."
+        },
+        {
+          "id": "been-08",
+          "zh": "我最近一直在考虑旅行。",
+          "en": "I've been thinking about traveling lately.",
+          "wrong": "I have been think about traveling."
+        },
+        {
+          "id": "been-09",
+          "zh": "我最近一直在学一点西班牙语。",
+          "en": "I've been learning a little Spanish lately.",
+          "wrong": "I've been learn Spanish."
+        },
+        {
+          "id": "been-10",
+          "zh": "我今天一直在找我的耳机。",
+          "en": "I've been looking for my earbuds all day.",
+          "wrong": "I have been look for my earbuds."
+        }
+      ]
+    },
+    {
+      "id": "to",
+      "name": "want / need / plan to + 动词",
+      "explanation": "want、need、plan 后面通常用 to + 动词原形。plan to 表示计划做。",
+      "commonMistakes": "I want listen ✗；I plan going ✗",
+      "examples": [
+        "I want to learn.",
+        "I need to rest.",
+        "I plan to travel."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "to-01",
+          "zh": "我想听一会儿播客。",
+          "en": "I want to listen to a podcast for a while.",
+          "wrong": "I want listen to a podcast."
+        },
+        {
+          "id": "to-02",
+          "zh": "我需要复习这些句型。",
+          "en": "I need to review these sentence patterns.",
+          "wrong": "I need review these patterns."
+        },
+        {
+          "id": "to-03",
+          "zh": "我打算周末出去走走。",
+          "en": "I plan to go out this weekend.",
+          "wrong": "I plan going out this weekend."
+        },
+        {
+          "id": "to-04",
+          "zh": "我想提高我的口语。",
+          "en": "I want to improve my speaking.",
+          "wrong": "I want improve my speaking."
+        },
+        {
+          "id": "to-05",
+          "zh": "我需要早点睡。",
+          "en": "I need to go to bed earlier.",
+          "wrong": "I need go to bed earlier."
+        },
+        {
+          "id": "to-06",
+          "zh": "我打算明天做作业。",
+          "en": "I plan to do my homework tomorrow.",
+          "wrong": "I plan do my homework tomorrow."
+        },
+        {
+          "id": "to-07",
+          "zh": "我想学会自然地表达自己。",
+          "en": "I want to express myself naturally.",
+          "wrong": "I want express myself naturally."
+        },
+        {
+          "id": "to-08",
+          "zh": "我需要给手机充电。",
+          "en": "I need to charge my phone.",
+          "wrong": "I need charging my phone."
+        },
+        {
+          "id": "to-09",
+          "zh": "我想试试另一款游戏。",
+          "en": "I want to try another game.",
+          "wrong": "I want try another game."
+        },
+        {
+          "id": "to-10",
+          "zh": "我打算暑假去旅行。",
+          "en": "I plan to travel during summer break.",
+          "wrong": "I plan traveling during summer break."
+        }
+      ]
+    },
+    {
+      "id": "spend",
+      "name": "spend time (on) doing",
+      "explanation": "spend + 时间 + doing；spend + 时间 + on + 名词。不要在 spend time 后面接 to do。",
+      "commonMistakes": "spend time to watch ✗",
+      "examples": [
+        "I spend time reading.",
+        "I spent an hour listening.",
+        "I spent time on homework."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "spend-01",
+          "zh": "我大部分时间都在看小说。",
+          "en": "I spend most of my time reading novels.",
+          "wrong": "I spend most of my time to read novels."
+        },
+        {
+          "id": "spend-02",
+          "zh": "我昨晚花了两个小时看直播。",
+          "en": "I spent two hours watching streams last night.",
+          "wrong": "I spent two hours to watch streams."
+        },
+        {
+          "id": "spend-03",
+          "zh": "我每天花一点时间练口语。",
+          "en": "I spend a little time practicing speaking every day.",
+          "wrong": "I spend time to practice speaking."
+        },
+        {
+          "id": "spend-04",
+          "zh": "我周末经常花时间待在家。",
+          "en": "I often spend my weekends relaxing at home.",
+          "wrong": "I spend my weekends to relax at home."
+        },
+        {
+          "id": "spend-05",
+          "zh": "我在这份作业上花了很长时间。",
+          "en": "I spent a lot of time on this assignment.",
+          "wrong": "I spent a lot of time in this assignment."
+        },
+        {
+          "id": "spend-06",
+          "zh": "我不想花太多时间刷短视频。",
+          "en": "I don't want to spend too much time scrolling through short videos.",
+          "wrong": "I don't want to spend time to scroll videos."
+        },
+        {
+          "id": "spend-07",
+          "zh": "我今天花了半小时听播客。",
+          "en": "I spent half an hour listening to a podcast today.",
+          "wrong": "I spent half an hour to listen."
+        },
+        {
+          "id": "spend-08",
+          "zh": "我花了一个下午整理笔记。",
+          "en": "I spent the afternoon organizing my notes.",
+          "wrong": "I spent the afternoon to organize notes."
+        },
+        {
+          "id": "spend-09",
+          "zh": "我通常花更多时间读书而不是看电影。",
+          "en": "I usually spend more time reading than watching movies.",
+          "wrong": "I spend more time to read than watch movies."
+        },
+        {
+          "id": "spend-10",
+          "zh": "我想少花点时间玩手机。",
+          "en": "I want to spend less time on my phone.",
+          "wrong": "I want to spend less time in my phone."
+        }
+      ]
+    },
+    {
+      "id": "good",
+      "name": "be good at doing",
+      "explanation": "be good at + 名词 / 动词 -ing，表示擅长某件事；not very good at 表示不太擅长。",
+      "commonMistakes": "good at remember ✗；good to play ✗",
+      "examples": [
+        "I’m good at playing TFT.",
+        "I’m not good at remembering names.",
+        "I’m getting better at speaking."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "good-01",
+          "zh": "我不太擅长记单词。",
+          "en": "I'm not very good at remembering words.",
+          "wrong": "I'm not good at remember words."
+        },
+        {
+          "id": "good-02",
+          "zh": "我挺擅长玩上单的。",
+          "en": "I'm pretty good at playing top lane.",
+          "wrong": "I'm good to play top lane."
+        },
+        {
+          "id": "good-03",
+          "zh": "我不擅长当众讲话。",
+          "en": "I'm not good at speaking in public.",
+          "wrong": "I'm not good at speak in public."
+        },
+        {
+          "id": "good-04",
+          "zh": "我朋友很擅长云顶之弈。",
+          "en": "My friend is really good at TFT.",
+          "wrong": "My friend is good in TFT."
+        },
+        {
+          "id": "good-05",
+          "zh": "我擅长找到好看的小说。",
+          "en": "I'm good at finding interesting novels.",
+          "wrong": "I'm good at find novels."
+        },
+        {
+          "id": "good-06",
+          "zh": "我不太擅长记名字。",
+          "en": "I'm not very good at remembering names.",
+          "wrong": "I'm not good at remember names."
+        },
+        {
+          "id": "good-07",
+          "zh": "我正在努力变得更擅长聊天。",
+          "en": "I'm trying to get better at having conversations.",
+          "wrong": "I'm trying to get better at have conversations."
+        },
+        {
+          "id": "good-08",
+          "zh": "她很擅长解释复杂的东西。",
+          "en": "She's good at explaining complicated things.",
+          "wrong": "She's good at explain things."
+        },
+        {
+          "id": "good-09",
+          "zh": "我不擅长早起。",
+          "en": "I'm not good at getting up early.",
+          "wrong": "I'm not good at get up early."
+        },
+        {
+          "id": "good-10",
+          "zh": "我觉得自己更擅长听而不是说。",
+          "en": "I think I'm better at listening than speaking.",
+          "wrong": "I'm better at listen than speak."
+        }
+      ]
+    },
+    {
+      "id": "same",
+      "name": "the same as / different from",
+      "explanation": "the same as = 和……一样；different from = 和……不同。same 前面通常需要 the。",
+      "commonMistakes": "same to ✗；different with ✗",
+      "examples": [
+        "It’s the same as before.",
+        "It’s different from mine.",
+        "They’re pretty much the same."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "same-01",
+          "zh": "云顶之弈和英雄联盟不一样。",
+          "en": "TFT is different from League of Legends.",
+          "wrong": "TFT is different with League of Legends."
+        },
+        {
+          "id": "same-02",
+          "zh": "我的习惯和以前一样。",
+          "en": "My habits are the same as before.",
+          "wrong": "My habits are same to before."
+        },
+        {
+          "id": "same-03",
+          "zh": "我的想法和你的一样。",
+          "en": "My opinion is the same as yours.",
+          "wrong": "My opinion is same to yours."
+        },
+        {
+          "id": "same-04",
+          "zh": "这个版本和旧版不一样。",
+          "en": "This version is different from the old one.",
+          "wrong": "This version is different with the old one."
+        },
+        {
+          "id": "same-05",
+          "zh": "我们喜欢的小说类型不一样。",
+          "en": "We like different kinds of novels.",
+          "wrong": "We like difference kinds of novels."
+        },
+        {
+          "id": "same-06",
+          "zh": "这个问题和上一个一样。",
+          "en": "This question is the same as the last one.",
+          "wrong": "This question is same to last one."
+        },
+        {
+          "id": "same-07",
+          "zh": "我现在的生活和高中时不一样。",
+          "en": "My life now is different from high school.",
+          "wrong": "My life now is different with high school."
+        },
+        {
+          "id": "same-08",
+          "zh": "我和朋友的看法不一样。",
+          "en": "My opinion is different from my friend's.",
+          "wrong": "My opinion is different with my friend."
+        },
+        {
+          "id": "same-09",
+          "zh": "这个主播和我以前看的不一样。",
+          "en": "This streamer is different from the ones I used to watch.",
+          "wrong": "This streamer is different with I watched."
+        },
+        {
+          "id": "same-10",
+          "zh": "对我来说，两个选择差不多。",
+          "en": "To me, the two options are pretty much the same.",
+          "wrong": "For me, two options is same."
+        }
+      ]
+    },
+    {
+      "id": "going",
+      "name": "I’m going to / I’m planning to",
+      "explanation": "be going to + 动词表示打算做；be planning to + 动词强调正在计划。不要漏掉 be。",
+      "commonMistakes": "I going to ✗；I’m going study ✗",
+      "examples": [
+        "I’m going to study.",
+        "I’m planning to travel.",
+        "I’m going to bed early."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "going-01",
+          "zh": "我今晚打算早点睡。",
+          "en": "I'm going to bed early tonight.",
+          "wrong": "I going to bed early tonight."
+        },
+        {
+          "id": "going-02",
+          "zh": "我明天打算练英语。",
+          "en": "I'm going to practice English tomorrow.",
+          "wrong": "I'm going practice English tomorrow."
+        },
+        {
+          "id": "going-03",
+          "zh": "我计划下个月去旅行。",
+          "en": "I'm planning to travel next month.",
+          "wrong": "I'm planning travel next month."
+        },
+        {
+          "id": "going-04",
+          "zh": "我今晚准备看一会儿直播。",
+          "en": "I'm going to watch some streams tonight.",
+          "wrong": "I going to watch streams tonight."
+        },
+        {
+          "id": "going-05",
+          "zh": "我打算周末把作业做完。",
+          "en": "I'm going to finish my homework this weekend.",
+          "wrong": "I'm going finish my homework."
+        },
+        {
+          "id": "going-06",
+          "zh": "我正在计划一次短途旅行。",
+          "en": "I'm planning to take a short trip.",
+          "wrong": "I'm planning taking a short trip."
+        },
+        {
+          "id": "going-07",
+          "zh": "我明天准备去图书馆。",
+          "en": "I'm going to the library tomorrow.",
+          "wrong": "I going to the library tomorrow."
+        },
+        {
+          "id": "going-08",
+          "zh": "我准备换一种学习方法。",
+          "en": "I'm going to try a different way of studying.",
+          "wrong": "I going try different way."
+        },
+        {
+          "id": "going-09",
+          "zh": "我打算把这句话记在笔记本里。",
+          "en": "I'm going to write this sentence in my notebook.",
+          "wrong": "I'm going write this sentence."
+        },
+        {
+          "id": "going-10",
+          "zh": "我计划每天听十分钟英语。",
+          "en": "I'm planning to listen to English for ten minutes a day.",
+          "wrong": "I'm planning listen to English."
+        }
+      ]
+    },
+    {
+      "id": "enjoy",
+      "name": "enjoy / like / love + -ing",
+      "explanation": "enjoy 后面接名词或动词 -ing；like/love 后面也常接 -ing 来表达兴趣爱好。",
+      "commonMistakes": "enjoy to read ✗",
+      "examples": [
+        "I enjoy reading.",
+        "I like watching streams.",
+        "I love learning languages."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "enjoy-01",
+          "zh": "我喜欢看云顶之弈直播。",
+          "en": "I enjoy watching TFT streams.",
+          "wrong": "I enjoy to watch TFT streams."
+        },
+        {
+          "id": "enjoy-02",
+          "zh": "我喜欢晚上读小说。",
+          "en": "I like reading novels at night.",
+          "wrong": "I like read novels at night."
+        },
+        {
+          "id": "enjoy-03",
+          "zh": "我喜欢听人讲故事。",
+          "en": "I love listening to people tell stories.",
+          "wrong": "I love listen people tell stories."
+        },
+        {
+          "id": "enjoy-04",
+          "zh": "我不喜欢等公交。",
+          "en": "I don't enjoy waiting for the bus.",
+          "wrong": "I don't enjoy to wait for the bus."
+        },
+        {
+          "id": "enjoy-05",
+          "zh": "我喜欢一个人待着。",
+          "en": "I enjoy spending time alone.",
+          "wrong": "I enjoy to spend time alone."
+        },
+        {
+          "id": "enjoy-06",
+          "zh": "我喜欢边走路边听播客。",
+          "en": "I like listening to podcasts while walking.",
+          "wrong": "I like listen to podcasts while walking."
+        },
+        {
+          "id": "enjoy-07",
+          "zh": "我喜欢发现新的小说。",
+          "en": "I enjoy discovering new novels.",
+          "wrong": "I enjoy to discover new novels."
+        },
+        {
+          "id": "enjoy-08",
+          "zh": "我喜欢和朋友聊天。",
+          "en": "I love chatting with my friends.",
+          "wrong": "I love chat with friends."
+        },
+        {
+          "id": "enjoy-09",
+          "zh": "我不喜欢被打断。",
+          "en": "I don't like being interrupted.",
+          "wrong": "I don't like be interrupted."
+        },
+        {
+          "id": "enjoy-10",
+          "zh": "我喜欢用英语表达自己的想法。",
+          "en": "I enjoy expressing my thoughts in English.",
+          "wrong": "I enjoy to express my thoughts."
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "name": "用过去式说今天做了什么",
+      "explanation": "说今天已经做过的事，用一般过去时：went、ate、watched、spent、stayed、read（过去式拼写相同）。",
+      "commonMistakes": "Yesterday I go ✗；I was watch ✗",
+      "examples": [
+        "I went out today.",
+        "I watched a stream.",
+        "I spent the day at home."
+      ],
+      "lessonUrl": "",
+      "sentences": [
+        {
+          "id": "past-01",
+          "zh": "我今天只出去吃了一次饭。",
+          "en": "I only went out once to get something to eat today.",
+          "wrong": "I only go out once today."
+        },
+        {
+          "id": "past-02",
+          "zh": "我今天大部分时间都在房间里。",
+          "en": "I spent most of today in my room.",
+          "wrong": "I spend most of today in my room."
+        },
+        {
+          "id": "past-03",
+          "zh": "我昨晚看了很久直播。",
+          "en": "I watched streams for a long time last night.",
+          "wrong": "I was watch streams last night."
+        },
+        {
+          "id": "past-04",
+          "zh": "我今天听了一集播客。",
+          "en": "I listened to a podcast episode today.",
+          "wrong": "I listen a podcast today."
+        },
+        {
+          "id": "past-05",
+          "zh": "我下午写完了作业。",
+          "en": "I finished my homework this afternoon.",
+          "wrong": "I finish my homework this afternoon."
+        },
+        {
+          "id": "past-06",
+          "zh": "我早上起晚了。",
+          "en": "I woke up late this morning.",
+          "wrong": "I wake up late this morning."
+        },
+        {
+          "id": "past-07",
+          "zh": "我今天读了几章小说。",
+          "en": "I read a few chapters of a novel today.",
+          "wrong": "I was read some chapters today."
+        },
+        {
+          "id": "past-08",
+          "zh": "我刚才忘了那个单词。",
+          "en": "I forgot that word just now.",
+          "wrong": "I forget that word just now."
+        },
+        {
+          "id": "past-09",
+          "zh": "我昨天和朋友聊了很久。",
+          "en": "I talked with my friend for a long time yesterday.",
+          "wrong": "I talk with my friend yesterday."
+        },
+        {
+          "id": "past-10",
+          "zh": "我今天学到了一个新表达。",
+          "en": "I learned a new expression today.",
+          "wrong": "I learn a new expression today."
+        }
+      ]
+    }
+  ]
+}

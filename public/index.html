@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#163f35">
+  <meta name="description" content="每天 20 句，开口说英语。支持离线练习、间隔复习和课程自动更新。">
+  <link rel="manifest" href="./app.webmanifest">
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+  <title>开口练 · 每天说一点</title>
+</head>
+<body>
+  <a class="skip" href="#main">跳到主要内容</a>
+  <div class="shell">
+    <header class="top"><a class="brand" href="#practice"><span class="brand-icon" aria-hidden="true">开</span><span>开口练<small>每天说一点 · SPEAK A LITTLE</small></span></a><span class="status" id="network">检查连接</span></header>
+    <p id="speech-status" class="hint" role="status" aria-live="polite" hidden></p>
+    <div id="app-update" class="banner" hidden><span>新版本已准备好，重新加载即可使用。</span><button id="reload-app">重新加载</button></div>
+    <div id="storage-error" class="banner error" role="alert" hidden></div>
+    <main id="main" tabindex="-1"><div class="card empty"><h1>准备你的练习…</h1><p>正在加载本地课程。</p></div></main>
+    <p class="footer-note">一点点积累，让表达成为习惯。</p>
+  </div>
+  <nav class="bottom-nav" aria-label="主要导航">
+    <a href="#practice" data-tab="practice"><span aria-hidden="true">◉</span>练习</a>
+    <a href="#courses" data-tab="courses"><span aria-hidden="true">▤</span>课程</a>
+    <a href="#progress" data-tab="progress"><span aria-hidden="true">▥</span>进度</a>
+    <a href="#resources" data-tab="resources"><span aria-hidden="true">↗</span>资源</a>
+    <a href="#settings" data-tab="settings"><span aria-hidden="true">⚙</span>设置</a>
+  </nav>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p>开口练需要 JavaScript 才能保存进度和进行练习，请在浏览器中启用。</p></noscript>
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

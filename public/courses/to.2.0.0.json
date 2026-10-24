@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "to",
+    "name": "want / need / plan to + 动词",
+    "explanation": "want、need、plan 后面通常用 to + 动词原形。plan to 表示计划做。",
+    "commonMistakes": "I want listen ✗；I plan going ✗",
+    "examples": [
+      "I want to learn.",
+      "I need to rest.",
+      "I plan to travel."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "to-01",
+        "zh": "我想听一会儿播客。",
+        "en": "I want to listen to a podcast for a while.",
+        "wrong": "I want listen to a podcast."
+      },
+      {
+        "id": "to-02",
+        "zh": "我需要复习这些句型。",
+        "en": "I need to review these sentence patterns.",
+        "wrong": "I need review these patterns."
+      },
+      {
+        "id": "to-03",
+        "zh": "我打算周末出去走走。",
+        "en": "I plan to go out this weekend.",
+        "wrong": "I plan going out this weekend."
+      },
+      {
+        "id": "to-04",
+        "zh": "我想提高我的口语。",
+        "en": "I want to improve my speaking.",
+        "wrong": "I want improve my speaking."
+      },
+      {
+        "id": "to-05",
+        "zh": "我需要早点睡。",
+        "en": "I need to go to bed earlier.",
+        "wrong": "I need go to bed earlier."
+      },
+      {
+        "id": "to-06",
+        "zh": "我打算明天做作业。",
+        "en": "I plan to do my homework tomorrow.",
+        "wrong": "I plan do my homework tomorrow."
+      },
+      {
+        "id": "to-07",
+        "zh": "我想学会自然地表达自己。",
+        "en": "I want to express myself naturally.",
+        "wrong": "I want express myself naturally."
+      },
+      {
+        "id": "to-08",
+        "zh": "我需要给手机充电。",
+        "en": "I need to charge my phone.",
+        "wrong": "I need charging my phone."
+      },
+      {
+        "id": "to-09",
+        "zh": "我想试试另一款游戏。",
+        "en": "I want to try another game.",
+        "wrong": "I want try another game."
+      },
+      {
+        "id": "to-10",
+        "zh": "我打算暑假去旅行。",
+        "en": "I plan to travel during summer break.",
+        "wrong": "I plan traveling during summer break."
+      }
+    ]
+  }
+}

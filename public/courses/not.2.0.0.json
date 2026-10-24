@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "not",
+    "name": "I’m not + 形容词 / doing",
+    "explanation": "I’m not 后面可以接形容词，或动词 -ing 表示现在没有正在做。普通动词的习惯性否定用 I don’t。",
+    "commonMistakes": "I’m not play ✗；I don’t tired ✗",
+    "examples": [
+      "I’m not tired.",
+      "I’m not playing.",
+      "I’m not ready."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "not-01",
+        "zh": "我现在不累。",
+        "en": "I'm not tired right now.",
+        "wrong": "I don't tired now."
+      },
+      {
+        "id": "not-02",
+        "zh": "我现在没在玩游戏。",
+        "en": "I'm not playing games right now.",
+        "wrong": "I don't playing games now."
+      },
+      {
+        "id": "not-03",
+        "zh": "我不确定这个答案。",
+        "en": "I'm not sure about this answer.",
+        "wrong": "I don't sure about this answer."
+      },
+      {
+        "id": "not-04",
+        "zh": "我没有在听音乐。",
+        "en": "I'm not listening to music.",
+        "wrong": "I'm not listen to music."
+      },
+      {
+        "id": "not-05",
+        "zh": "我今天不忙。",
+        "en": "I'm not busy today.",
+        "wrong": "I don't busy today."
+      },
+      {
+        "id": "not-06",
+        "zh": "我没在看直播，我在写作业。",
+        "en": "I'm not watching a stream. I'm doing homework.",
+        "wrong": "I'm not watch a stream."
+      },
+      {
+        "id": "not-07",
+        "zh": "我对这部电影不感兴趣。",
+        "en": "I'm not interested in this movie.",
+        "wrong": "I don't interested in this movie."
+      },
+      {
+        "id": "not-08",
+        "zh": "我还没准备好。",
+        "en": "I'm not ready yet.",
+        "wrong": "I don't ready yet."
+      },
+      {
+        "id": "not-09",
+        "zh": "我不是在开玩笑。",
+        "en": "I'm not joking.",
+        "wrong": "I don't joking."
+      },
+      {
+        "id": "not-10",
+        "zh": "我现在不饿。",
+        "en": "I'm not hungry right now.",
+        "wrong": "I don't hungry now."
+      }
+    ]
+  }
+}

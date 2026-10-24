@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "same",
+    "name": "the same as / different from",
+    "explanation": "the same as = 和……一样；different from = 和……不同。same 前面通常需要 the。",
+    "commonMistakes": "same to ✗；different with ✗",
+    "examples": [
+      "It’s the same as before.",
+      "It’s different from mine.",
+      "They’re pretty much the same."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "same-01",
+        "zh": "云顶之弈和英雄联盟不一样。",
+        "en": "TFT is different from League of Legends.",
+        "wrong": "TFT is different with League of Legends."
+      },
+      {
+        "id": "same-02",
+        "zh": "我的习惯和以前一样。",
+        "en": "My habits are the same as before.",
+        "wrong": "My habits are same to before."
+      },
+      {
+        "id": "same-03",
+        "zh": "我的想法和你的一样。",
+        "en": "My opinion is the same as yours.",
+        "wrong": "My opinion is same to yours."
+      },
+      {
+        "id": "same-04",
+        "zh": "这个版本和旧版不一样。",
+        "en": "This version is different from the old one.",
+        "wrong": "This version is different with the old one."
+      },
+      {
+        "id": "same-05",
+        "zh": "我们喜欢的小说类型不一样。",
+        "en": "We like different kinds of novels.",
+        "wrong": "We like difference kinds of novels."
+      },
+      {
+        "id": "same-06",
+        "zh": "这个问题和上一个一样。",
+        "en": "This question is the same as the last one.",
+        "wrong": "This question is same to last one."
+      },
+      {
+        "id": "same-07",
+        "zh": "我现在的生活和高中时不一样。",
+        "en": "My life now is different from high school.",
+        "wrong": "My life now is different with high school."
+      },
+      {
+        "id": "same-08",
+        "zh": "我和朋友的看法不一样。",
+        "en": "My opinion is different from my friend's.",
+        "wrong": "My opinion is different with my friend."
+      },
+      {
+        "id": "same-09",
+        "zh": "这个主播和我以前看的不一样。",
+        "en": "This streamer is different from the ones I used to watch.",
+        "wrong": "This streamer is different with I watched."
+      },
+      {
+        "id": "same-10",
+        "zh": "对我来说，两个选择差不多。",
+        "en": "To me, the two options are pretty much the same.",
+        "wrong": "For me, two options is same."
+      }
+    ]
+  }
+}

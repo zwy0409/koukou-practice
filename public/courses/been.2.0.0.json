@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "been",
+    "name": "I’ve been + -ing",
+    "explanation": "have been + 动词 -ing 表示一段时间以来持续或反复发生的活动；lately/recently 很常搭配。",
+    "commonMistakes": "I have been watch ✗；I been watching ✗",
+    "examples": [
+      "I’ve been reading lately.",
+      "I’ve been practicing English.",
+      "I haven’t been sleeping well."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "been-01",
+        "zh": "我最近一直在看云顶之弈直播。",
+        "en": "I've been watching TFT streams lately.",
+        "wrong": "I have been watch TFT lately."
+      },
+      {
+        "id": "been-02",
+        "zh": "我最近一直在听英语播客。",
+        "en": "I've been listening to English podcasts lately.",
+        "wrong": "I've been listen to podcasts."
+      },
+      {
+        "id": "been-03",
+        "zh": "我这周一直在赶作业。",
+        "en": "I've been working on assignments all week.",
+        "wrong": "I have been work on assignments."
+      },
+      {
+        "id": "been-04",
+        "zh": "我最近一直在练英语口语。",
+        "en": "I've been practicing spoken English lately.",
+        "wrong": "I have been practice English."
+      },
+      {
+        "id": "been-05",
+        "zh": "我最近睡得不太好。",
+        "en": "I haven't been sleeping very well lately.",
+        "wrong": "I haven't been sleep well."
+      },
+      {
+        "id": "been-06",
+        "zh": "我最近一直在读这本小说。",
+        "en": "I've been reading this novel recently.",
+        "wrong": "I have been read this novel."
+      },
+      {
+        "id": "been-07",
+        "zh": "我一直在等朋友回复。",
+        "en": "I've been waiting for my friend to reply.",
+        "wrong": "I've been wait for my friend."
+      },
+      {
+        "id": "been-08",
+        "zh": "我最近一直在考虑旅行。",
+        "en": "I've been thinking about traveling lately.",
+        "wrong": "I have been think about traveling."
+      },
+      {
+        "id": "been-09",
+        "zh": "我最近一直在学一点西班牙语。",
+        "en": "I've been learning a little Spanish lately.",
+        "wrong": "I've been learn Spanish."
+      },
+      {
+        "id": "been-10",
+        "zh": "我今天一直在找我的耳机。",
+        "en": "I've been looking for my earbuds all day.",
+        "wrong": "I have been look for my earbuds."
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "going",
+    "name": "I’m going to / I’m planning to",
+    "explanation": "be going to + 动词表示打算做；be planning to + 动词强调正在计划。不要漏掉 be。",
+    "commonMistakes": "I going to ✗；I’m going study ✗",
+    "examples": [
+      "I’m going to study.",
+      "I’m planning to travel.",
+      "I’m going to bed early."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "going-01",
+        "zh": "我今晚打算早点睡。",
+        "en": "I'm going to bed early tonight.",
+        "wrong": "I going to bed early tonight."
+      },
+      {
+        "id": "going-02",
+        "zh": "我明天打算练英语。",
+        "en": "I'm going to practice English tomorrow.",
+        "wrong": "I'm going practice English tomorrow."
+      },
+      {
+        "id": "going-03",
+        "zh": "我计划下个月去旅行。",
+        "en": "I'm planning to travel next month.",
+        "wrong": "I'm planning travel next month."
+      },
+      {
+        "id": "going-04",
+        "zh": "我今晚准备看一会儿直播。",
+        "en": "I'm going to watch some streams tonight.",
+        "wrong": "I going to watch streams tonight."
+      },
+      {
+        "id": "going-05",
+        "zh": "我打算周末把作业做完。",
+        "en": "I'm going to finish my homework this weekend.",
+        "wrong": "I'm going finish my homework."
+      },
+      {
+        "id": "going-06",
+        "zh": "我正在计划一次短途旅行。",
+        "en": "I'm planning to take a short trip.",
+        "wrong": "I'm planning taking a short trip."
+      },
+      {
+        "id": "going-07",
+        "zh": "我明天准备去图书馆。",
+        "en": "I'm going to the library tomorrow.",
+        "wrong": "I going to the library tomorrow."
+      },
+      {
+        "id": "going-08",
+        "zh": "我准备换一种学习方法。",
+        "en": "I'm going to try a different way of studying.",
+        "wrong": "I going try different way."
+      },
+      {
+        "id": "going-09",
+        "zh": "我打算把这句话记在笔记本里。",
+        "en": "I'm going to write this sentence in my notebook.",
+        "wrong": "I'm going write this sentence."
+      },
+      {
+        "id": "going-10",
+        "zh": "我计划每天听十分钟英语。",
+        "en": "I'm planning to listen to English for ten minutes a day.",
+        "wrong": "I'm planning listen to English."
+      }
+    ]
+  }
+}

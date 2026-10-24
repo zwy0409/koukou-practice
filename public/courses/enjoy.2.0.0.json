@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "enjoy",
+    "name": "enjoy / like / love + -ing",
+    "explanation": "enjoy 后面接名词或动词 -ing；like/love 后面也常接 -ing 来表达兴趣爱好。",
+    "commonMistakes": "enjoy to read ✗",
+    "examples": [
+      "I enjoy reading.",
+      "I like watching streams.",
+      "I love learning languages."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "enjoy-01",
+        "zh": "我喜欢看云顶之弈直播。",
+        "en": "I enjoy watching TFT streams.",
+        "wrong": "I enjoy to watch TFT streams."
+      },
+      {
+        "id": "enjoy-02",
+        "zh": "我喜欢晚上读小说。",
+        "en": "I like reading novels at night.",
+        "wrong": "I like read novels at night."
+      },
+      {
+        "id": "enjoy-03",
+        "zh": "我喜欢听人讲故事。",
+        "en": "I love listening to people tell stories.",
+        "wrong": "I love listen people tell stories."
+      },
+      {
+        "id": "enjoy-04",
+        "zh": "我不喜欢等公交。",
+        "en": "I don't enjoy waiting for the bus.",
+        "wrong": "I don't enjoy to wait for the bus."
+      },
+      {
+        "id": "enjoy-05",
+        "zh": "我喜欢一个人待着。",
+        "en": "I enjoy spending time alone.",
+        "wrong": "I enjoy to spend time alone."
+      },
+      {
+        "id": "enjoy-06",
+        "zh": "我喜欢边走路边听播客。",
+        "en": "I like listening to podcasts while walking.",
+        "wrong": "I like listen to podcasts while walking."
+      },
+      {
+        "id": "enjoy-07",
+        "zh": "我喜欢发现新的小说。",
+        "en": "I enjoy discovering new novels.",
+        "wrong": "I enjoy to discover new novels."
+      },
+      {
+        "id": "enjoy-08",
+        "zh": "我喜欢和朋友聊天。",
+        "en": "I love chatting with my friends.",
+        "wrong": "I love chat with friends."
+      },
+      {
+        "id": "enjoy-09",
+        "zh": "我不喜欢被打断。",
+        "en": "I don't like being interrupted.",
+        "wrong": "I don't like be interrupted."
+      },
+      {
+        "id": "enjoy-10",
+        "zh": "我喜欢用英语表达自己的想法。",
+        "en": "I enjoy expressing my thoughts in English.",
+        "wrong": "I enjoy to express my thoughts."
+      }
+    ]
+  }
+}

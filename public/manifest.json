@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "updatedAt": "2026-10-24",
+  "title": "开口练 · 英语口语训练",
+  "releaseNotes": "首批 10 个核心句型，共 100 句。",
+  "links": {
+    "bbc": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
+    "spanish": [
+      {
+        "name": "Language Transfer · Complete Spanish",
+        "url": "https://www.languagetransfer.org/complete-spanish"
+      },
+      {
+        "name": "西班牙语发音规则（视频搜索）",
+        "url": "https://www.youtube.com/results?search_query=spanish+pronunciation+rules+beginners"
+      },
+      {
+        "name": "Dreaming Spanish · Superbeginner",
+        "url": "https://www.dreamingspanish.com/"
+      }
+    ]
+  },
+  "courses": [
+    {
+      "id": "dont",
+      "name": "I don’t + 动词",
+      "version": "2.0.0",
+      "url": "courses/dont.2.0.0.json",
+      "sha256": "bd6b05bfc0c9cafc25382a676c1dc1e27dd216dbb9f947022c0f5718d3fcfe69"
+    },
+    {
+      "id": "not",
+      "name": "I’m not + 形容词 / doing",
+      "version": "2.0.0",
+      "url": "courses/not.2.0.0.json",
+      "sha256": "a5afe66f8c116a2ddf6858e49cb6780ef95175f4ac95de2289be069a58c87f7c"
+    },
+    {
+      "id": "been",
+      "name": "I’ve been + -ing",
+      "version": "2.0.0",
+      "url": "courses/been.2.0.0.json",
+      "sha256": "db341a9e172aeccb0cb7975904d8b822209c36e70d6d9d67d10f6af5a9cead18"
+    },
+    {
+      "id": "to",
+      "name": "want / need / plan to + 动词",
+      "version": "2.0.0",
+      "url": "courses/to.2.0.0.json",
+      "sha256": "c2762605f5e06752782ad08090ca771884725bc15971dfa8e9c7015b603f4724"
+    },
+    {
+      "id": "spend",
+      "name": "spend time (on) doing",
+      "version": "2.0.0",
+      "url": "courses/spend.2.0.0.json",
+      "sha256": "e9e0bd46fc2060e2f42d36f83f95ad611f49578cf2e753031642b825ced8896e"
+    },
+    {
+      "id": "good",
+      "name": "be good at doing",
+      "version": "2.0.0",
+      "url": "courses/good.2.0.0.json",
+      "sha256": "567754cfb188782160f411517c2b1b369c4fdeefcc952e379a61e8daac2296dc"
+    },
+    {
+      "id": "same",
+      "name": "the same as / different from",
+      "version": "2.0.0",
+      "url": "courses/same.2.0.0.json",
+      "sha256": "7fd8237a744c90345b5588b79e11d6c416e91157ff07156fa18d1d0583f1a833"
+    },
+    {
+      "id": "going",
+      "name": "I’m going to / I’m planning to",
+      "version": "2.0.0",
+      "url": "courses/going.2.0.0.json",
+      "sha256": "bebac289303da3a5ff30bea50747617709068778d97bb4308b114751fac6f1fa"
+    },
+    {
+      "id": "enjoy",
+      "name": "enjoy / like / love + -ing",
+      "version": "2.0.0",
+      "url": "courses/enjoy.2.0.0.json",
+      "sha256": "e109acbdd1b1d382331a3559f8bf0fa4827665ace439598683e748bcad66b4dd"
+    },
+    {
+      "id": "past",
+      "name": "用过去式说今天做了什么",
+      "version": "2.0.0",
+      "url": "courses/past.2.0.0.json",
+      "sha256": "f2ecbca66dce8033a9e194e228e4560eec7c5d1bf77fbc3f2da786861be76df3"
+    }
+  ]
+}

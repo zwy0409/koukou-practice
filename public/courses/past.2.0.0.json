@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "past",
+    "name": "用过去式说今天做了什么",
+    "explanation": "说今天已经做过的事，用一般过去时：went、ate、watched、spent、stayed、read（过去式拼写相同）。",
+    "commonMistakes": "Yesterday I go ✗；I was watch ✗",
+    "examples": [
+      "I went out today.",
+      "I watched a stream.",
+      "I spent the day at home."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "past-01",
+        "zh": "我今天只出去吃了一次饭。",
+        "en": "I only went out once to get something to eat today.",
+        "wrong": "I only go out once today."
+      },
+      {
+        "id": "past-02",
+        "zh": "我今天大部分时间都在房间里。",
+        "en": "I spent most of today in my room.",
+        "wrong": "I spend most of today in my room."
+      },
+      {
+        "id": "past-03",
+        "zh": "我昨晚看了很久直播。",
+        "en": "I watched streams for a long time last night.",
+        "wrong": "I was watch streams last night."
+      },
+      {
+        "id": "past-04",
+        "zh": "我今天听了一集播客。",
+        "en": "I listened to a podcast episode today.",
+        "wrong": "I listen a podcast today."
+      },
+      {
+        "id": "past-05",
+        "zh": "我下午写完了作业。",
+        "en": "I finished my homework this afternoon.",
+        "wrong": "I finish my homework this afternoon."
+      },
+      {
+        "id": "past-06",
+        "zh": "我早上起晚了。",
+        "en": "I woke up late this morning.",
+        "wrong": "I wake up late this morning."
+      },
+      {
+        "id": "past-07",
+        "zh": "我今天读了几章小说。",
+        "en": "I read a few chapters of a novel today.",
+        "wrong": "I was read some chapters today."
+      },
+      {
+        "id": "past-08",
+        "zh": "我刚才忘了那个单词。",
+        "en": "I forgot that word just now.",
+        "wrong": "I forget that word just now."
+      },
+      {
+        "id": "past-09",
+        "zh": "我昨天和朋友聊了很久。",
+        "en": "I talked with my friend for a long time yesterday.",
+        "wrong": "I talk with my friend yesterday."
+      },
+      {
+        "id": "past-10",
+        "zh": "我今天学到了一个新表达。",
+        "en": "I learned a new expression today.",
+        "wrong": "I learn a new expression today."
+      }
+    ]
+  }
+}

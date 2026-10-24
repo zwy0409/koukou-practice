@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "good",
+    "name": "be good at doing",
+    "explanation": "be good at + 名词 / 动词 -ing，表示擅长某件事；not very good at 表示不太擅长。",
+    "commonMistakes": "good at remember ✗；good to play ✗",
+    "examples": [
+      "I’m good at playing TFT.",
+      "I’m not good at remembering names.",
+      "I’m getting better at speaking."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "good-01",
+        "zh": "我不太擅长记单词。",
+        "en": "I'm not very good at remembering words.",
+        "wrong": "I'm not good at remember words."
+      },
+      {
+        "id": "good-02",
+        "zh": "我挺擅长玩上单的。",
+        "en": "I'm pretty good at playing top lane.",
+        "wrong": "I'm good to play top lane."
+      },
+      {
+        "id": "good-03",
+        "zh": "我不擅长当众讲话。",
+        "en": "I'm not good at speaking in public.",
+        "wrong": "I'm not good at speak in public."
+      },
+      {
+        "id": "good-04",
+        "zh": "我朋友很擅长云顶之弈。",
+        "en": "My friend is really good at TFT.",
+        "wrong": "My friend is good in TFT."
+      },
+      {
+        "id": "good-05",
+        "zh": "我擅长找到好看的小说。",
+        "en": "I'm good at finding interesting novels.",
+        "wrong": "I'm good at find novels."
+      },
+      {
+        "id": "good-06",
+        "zh": "我不太擅长记名字。",
+        "en": "I'm not very good at remembering names.",
+        "wrong": "I'm not good at remember names."
+      },
+      {
+        "id": "good-07",
+        "zh": "我正在努力变得更擅长聊天。",
+        "en": "I'm trying to get better at having conversations.",
+        "wrong": "I'm trying to get better at have conversations."
+      },
+      {
+        "id": "good-08",
+        "zh": "她很擅长解释复杂的东西。",
+        "en": "She's good at explaining complicated things.",
+        "wrong": "She's good at explain things."
+      },
+      {
+        "id": "good-09",
+        "zh": "我不擅长早起。",
+        "en": "I'm not good at getting up early.",
+        "wrong": "I'm not good at get up early."
+      },
+      {
+        "id": "good-10",
+        "zh": "我觉得自己更擅长听而不是说。",
+        "en": "I think I'm better at listening than speaking.",
+        "wrong": "I'm better at listen than speak."
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.0",
+  "course": {
+    "id": "spend",
+    "name": "spend time (on) doing",
+    "explanation": "spend + 时间 + doing；spend + 时间 + on + 名词。不要在 spend time 后面接 to do。",
+    "commonMistakes": "spend time to watch ✗",
+    "examples": [
+      "I spend time reading.",
+      "I spent an hour listening.",
+      "I spent time on homework."
+    ],
+    "lessonUrl": "",
+    "sentences": [
+      {
+        "id": "spend-01",
+        "zh": "我大部分时间都在看小说。",
+        "en": "I spend most of my time reading novels.",
+        "wrong": "I spend most of my time to read novels."
+      },
+      {
+        "id": "spend-02",
+        "zh": "我昨晚花了两个小时看直播。",
+        "en": "I spent two hours watching streams last night.",
+        "wrong": "I spent two hours to watch streams."
+      },
+      {
+        "id": "spend-03",
+        "zh": "我每天花一点时间练口语。",
+        "en": "I spend a little time practicing speaking every day.",
+        "wrong": "I spend time to practice speaking."
+      },
+      {
+        "id": "spend-04",
+        "zh": "我周末经常花时间待在家。",
+        "en": "I often spend my weekends relaxing at home.",
+        "wrong": "I spend my weekends to relax at home."
+      },
+      {
+        "id": "spend-05",
+        "zh": "我在这份作业上花了很长时间。",
+        "en": "I spent a lot of time on this assignment.",
+        "wrong": "I spent a lot of time in this assignment."
+      },
+      {
+        "id": "spend-06",
+        "zh": "我不想花太多时间刷短视频。",
+        "en": "I don't want to spend too much time scrolling through short videos.",
+        "wrong": "I don't want to spend time to scroll videos."
+      },
+      {
+        "id": "spend-07",
+        "zh": "我今天花了半小时听播客。",
+        "en": "I spent half an hour listening to a podcast today.",
+        "wrong": "I spent half an hour to listen."
+      },
+      {
+        "id": "spend-08",
+        "zh": "我花了一个下午整理笔记。",
+        "en": "I spent the afternoon organizing my notes.",
+        "wrong": "I spent the afternoon to organize notes."
+      },
+      {
+        "id": "spend-09",
+        "zh": "我通常花更多时间读书而不是看电影。",
+        "en": "I usually spend more time reading than watching movies.",
+        "wrong": "I spend more time to read than watch movies."
+      },
+      {
+        "id": "spend-10",
+        "zh": "我想少花点时间玩手机。",
+        "en": "I want to spend less time on my phone.",
+        "wrong": "I want to spend less time in my phone."
+      }
+    ]
+  }
+}
