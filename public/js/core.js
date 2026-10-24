@@ -84,6 +84,10 @@ export function validateProgress(raw) {
   return out;
 }
 export function allQuestions(courses) { return courses.flatMap(c => c.sentences.map(s => ({...s,courseId:c.id,courseName:c.name}))); }
+export function courseProgress(state,course) {
+  const records=course.sentences.map(s=>state.items[s.id]);
+  return {total:course.sentences.length,practiced:records.filter(m=>m && m.correct+m.wrong>0).length,mastered:records.filter(m=>m?.mastered).length};
+}
 export function meta(state,id,day) { return state.items[id] || {correct:0,wrong:0,streak:0,mastered:false,due:day}; }
 export function dayRecord(state,day) { return state.days[day] || {done:0,correct:0,ids:[]}; }
 export function queueFor(state,courses,day) {

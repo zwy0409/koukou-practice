@@ -1,5 +1,5 @@
 /* 程序文件有任何改动，都要递增此版本。课程更新无需改这里。 */
-const APP_VERSION = '3.0.2';
+const APP_VERSION = '3.0.3';
 const SHELL = `koukoulian-shell-${APP_VERSION}`;
 const COURSES = 'koukoulian-courses-v1';
 const ASSETS = [

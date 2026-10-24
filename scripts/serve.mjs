@@ -20,6 +20,7 @@ const server=createServer(async(req,res)=>{
   try {
     if(!['GET','HEAD'].includes(req.method)) {res.writeHead(405).end();return;}
     const pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname);
+    if(pathname==='/index.html') {res.writeHead(308,{'Location':'/'}).end();return;}
     if(pathname.split('/').some(p=>p.startsWith('.')) || pathname==='/_headers') {res.writeHead(404).end();return;}
     let file=resolve(root,'.'+pathname);
     if(file!==root && !file.startsWith(root+sep)) {res.writeHead(403).end();return;}
